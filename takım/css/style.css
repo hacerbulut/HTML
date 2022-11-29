@@ -1,0 +1,51 @@
+p{
+    background-color: aqua;
+}
+.second{
+    border: 6px solid black;
+    color: brown;
+    padding: 10px;
+    margin: 25px;
+}
+div {
+    border: 5px solid black;
+    padding: 40px;
+    margin: 40px;
+  }
+  .color-style{
+    background-color:rgb(255,0,0) ;
+
+  }
+  .color-style2{
+    background-color: #06814198;
+  }
+  #one{
+    border:2px dotted ;
+  }
+  #two{
+    border:2px dashed ;
+  }
+  #three{
+    border: 2px double;
+  }
+  #four{
+    border: 16px groove;
+  }
+  #five{
+    border: 6px ridge;
+  }
+  #six{
+    border: 6px inset;
+  }
+  #seven{
+    border: 6px outset;
+  }
+  #eight{
+    border: 6px none;
+  }
+  #nine{
+    border-style:solid dotted dashed inset ;
+  }
+  #ten{
+    border: 6px ;
+  }
